@@ -1,3 +1,2 @@
 #!/bin/bash
-ls
-cd /home/ubuntu/server
+ls -la
