@@ -1,4 +1,5 @@
 #!/bin/bash
-ls -la
+ls
+echo teste
 npm install
 npm run build
