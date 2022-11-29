@@ -1,3 +1,4 @@
 #!/bin/bash
 ls -la
-sudo service apache2 start
+npm install
+npm run build
