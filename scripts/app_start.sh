@@ -1,6 +1,6 @@
 #!/bin/bash
 ls -la
 cd /home/ubuntu/teste/dist
-mv * /var/www/html
+mv * /var/www/html --force
 
 
