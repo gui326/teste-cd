@@ -1,2 +1,2 @@
-cd /home/ec2-user/server/src
+#!/bin/bash
 sudo service apache2 start
