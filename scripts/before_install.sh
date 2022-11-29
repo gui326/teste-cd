@@ -1,6 +1,5 @@
 #!/bin/bash
-ls -la
 cd /home/ubuntu/teste
-npm install 
-npm run build
+curl -sL https://rpm.nodesource.com/setup_16.x | sudo -E bash -
+sudo apt-get install nodejs npm 
 
